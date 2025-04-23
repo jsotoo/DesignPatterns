@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "/KyBsRHew+ZTI3hoJP64azKZE4KWpFPfklUsT0yfVCc=",
+  "Source": "VirtualPetManager.API",
+  "BasePath": "_content/VirtualPetManager.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

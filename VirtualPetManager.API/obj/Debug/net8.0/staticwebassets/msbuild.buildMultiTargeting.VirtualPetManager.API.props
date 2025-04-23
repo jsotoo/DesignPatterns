@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\VirtualPetManager.API.props" />
+</Project>

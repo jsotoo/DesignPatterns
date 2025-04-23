@@ -1,0 +1,6 @@
+@VirtualPetManager.API_HostAddress = http://localhost:5273
+
+GET {{VirtualPetManager.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
